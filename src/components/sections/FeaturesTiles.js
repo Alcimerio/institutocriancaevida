@@ -133,7 +133,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Rayanne Silva
+                    Rayanne Freimann
                   </h4>
                 </div>
               </div>
