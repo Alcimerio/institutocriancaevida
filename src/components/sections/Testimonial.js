@@ -86,7 +86,6 @@ const Testimonial = ({
                 </div>
               </div>
             </div>
-
             <div className="tiles-item reveal-from-left" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div>
