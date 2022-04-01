@@ -45,7 +45,7 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Conheça nossa loja online',
+    title: 'Conheça nossa loja online: IC&V Store',
     paragraph: 'Nossa loja conta com artigos e roupas esportivas, tanto para crianças quanto para adultos.'
   };
 
